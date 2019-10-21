@@ -22,3 +22,4 @@ Trying a simple program which can connect to Yeelights locally.
 
 I used the following libraries to do it:
 - [yapi from Florian Mollin](https://github.com/florian-mollin/yapi)
+- [HoloColorPicker from LarsWerkman](https://github.com/LarsWerkman/HoloColorPicker)
