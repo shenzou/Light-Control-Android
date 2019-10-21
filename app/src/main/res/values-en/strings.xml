@@ -1,7 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Light-Control</string>
+    <string name="etat">State:</string>
     <string name="turn_on_off">Turn ON/OFF</string>
-    <string name="etat">Etat:</string>
     <string name="Luminosité">Luminosity</string>
     <string name="Change_color">Change color</string>
 </resources>
